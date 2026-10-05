@@ -7,11 +7,12 @@ policy describes the information the extension accesses and how it is used.
 
 ## Information processed by the extension
 
-Lumina Images scans webpages where it runs to find images, logos, and related
-image metadata. This page content and the resulting image URLs are processed
-in your browser to display previews and to download images or create a ZIP
-file when you choose to do so. The extension does not send webpage content,
-image URLs, or downloaded images to the developer or to an analytics service.
+When you open Lumina Images or use its keyboard shortcut on a tab, Lumina
+Images scans that active webpage to find images, logos, and related image
+metadata. This page content and the resulting image URLs are processed in your
+browser to display previews and to download images or create a ZIP file when
+you choose to do so. The extension does not send webpage content, image URLs,
+or downloaded images to the developer or to an analytics service.
 
 When an image is loaded or downloaded, your browser may make a request to the
 server hosting that image. That server may receive ordinary connection
