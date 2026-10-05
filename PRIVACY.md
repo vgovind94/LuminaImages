@@ -20,10 +20,12 @@ information, such as your IP address, under its own privacy policy.
 ## Browser storage
 
 The extension uses Chrome storage to save your simple dark-mode preference
-across devices and to save your optional helpful/not-helpful feedback
-preference on your device. These settings are not transmitted to the
-developer. You can remove them by clearing the extension's stored data or
-uninstalling the extension.
+using Chrome Sync, which may sync that setting through Google's services
+according to your Chrome sync settings. It also saves your optional
+helpful/not-helpful feedback preference on your device. The developer cannot
+access these settings, and they are not sent to a developer-operated server.
+You can remove them by clearing the extension's stored data or uninstalling
+the extension.
 
 ## Data sharing and sale
 
